@@ -1,0 +1,8 @@
+torch
+torchvision
+pandas==0.25.1
+tqdm==4.35.0
+sklearn
+matplotlib
+transformers==2.5.1
+conllu
